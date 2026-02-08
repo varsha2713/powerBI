@@ -1,6 +1,6 @@
 
 
-#📊 Marketing Campaign Effectiveness Analysis – Power BI
+📊 Marketing Campaign Effectiveness Analysis – Power BI
 
  📌 Project Description
 
